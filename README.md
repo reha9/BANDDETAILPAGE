@@ -1,4 +1,3 @@
-# BANDDETAILPAGE
 <html>
 <head>
 <title>Album Detail Page</title>
